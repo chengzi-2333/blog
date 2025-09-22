@@ -2,14 +2,9 @@
 date: '2025-09-08T23:13:08+08:00'
 draft: true
 title: 'Demo'
-math: true
-categories: demo
-tags: 
-  - demo
-series: demo
 ---
 
-# Hello guys this is chengzi-2333's Blog
+***Hello guys this is chengzi-2333's Blog***
 
 After $\int_{0}^{\sqrt{2}} x \mathrm{d}x$ day(s), I managed to create this site.
 

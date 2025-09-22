@@ -1,6 +1,14 @@
-baseURL: https://chengzi-2333.github.io/
+baseURL: https://chengzi-2333.github.io/blog
 languageCode: zh-cn
 title: chengzi-2333's Blog
-theme: papermod
+theme: hextra
 sectionPagesMenu: main
 
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ["$$", "$$"]]
+          inline: [['\(', '\)'], ["$", "$"]]
+        enable: true
